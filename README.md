@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Hemanth Kumar J<br>🚀 Tech Enthusiast | AI & ML Developer | MERN <br><br>I'm a CSE UG student specializing in Cybersecurity with a deep passion for AI, ML, and Data Science. I love working on impactful projects that solve real-world problems.<br><br>🔥 What I Do<br>Machine Learning & AI – Building intelligent systems & predictive models<br><br>Full-Stack Development – Creating scalable apps with MERN stack & Flask<br><br>🌟 Ongoing Projects<br><br>Financial ML Web App – AI-powered market analysis with Flask & Plotly<br><br>Self-Hosted CI/CD Pipeline – Automating code testing, security checks & deployments<br><br>🛠️ Tech Stack<br>Languages: Python, JavaScript, C++,Java<br>ML & AI: TensorFlow, Scikit-Learn, OpenCV<br>Web Development: Flask, Node.js, Express, MongoDB, React<br>DevOps: Docker, AWS, GitHub Actions<br><br>💡 Let's Connect!<br>📬 Reach out for collaborations, research, or open-source projects!
+👋 Hey, I'm Hemanth Kumar J<br>🚀 AI/ML Developer |  Full-Stack Dev (MERN)<br><br>I build AI-powered apps, secure systems, and scalable web solutions using Flask, MERN, and ML models. Passionate about open-source, research, and impactful projects.<br><br>💡 Let’s connect & collaborate! 🚀
 
 
 ## 🌐 Socials:
