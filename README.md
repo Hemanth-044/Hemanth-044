@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Hemanth Kumar J<br>🚀 AI/ML Developer |  Full-Stack Dev (MERN)<br><br>I build AI-powered apps, secure systems, and scalable web solutions using Flask, MERN, and ML models. Passionate about open-source, research, and impactful projects.<br><br>💡 Let’s connect & collaborate! 🚀
+👋 Hey, I'm Hemanth Kumar J<br>🚀 AI/ML Developer |  Data Science <br><br>I build AI-powered apps, secure systems, and scalable web solutions using Flask, MERN, and ML models. Passionate about open-source, research, and impactful projects.<br><br>💡 Let’s connect & collaborate! 🚀
 
 
 ## 🌐 Socials:
